@@ -1,7 +1,4 @@
 #projeto 1 Fprog 21/22 LEIC
-#ist1102507
-#Sara Pinheiro
-#sara.pinheiro@tecnico.ulisboa.pt
 
 #1.1 corrigir_palavra
 def corrigir_palavra(string):
