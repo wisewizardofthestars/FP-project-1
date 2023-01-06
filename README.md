@@ -1,1 +1,2 @@
-1st python project for Fprog class.
+
+Project for "Fundamentals of programming" class, 2021.
