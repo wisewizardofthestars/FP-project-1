@@ -1,2 +1,7 @@
-### Project for "Fundamentals of programming" class, 2021.
-Buggy Data Base (BDB)
+# FP
+**Fundamentals of Programming** (FP) project implemented in Python
+
+
+
+*Final Grade:* /20
+
